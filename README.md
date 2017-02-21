@@ -1,6 +1,13 @@
 # PinnedSectionRecyclerView
 Simple RecyclerView with pinned sections for Android.
 
+# ScreenShot
+![ListViewStyle](example_listview.png)&nbsp;
+![ListViewStyle](example_gridview.png)&nbsp;
+
+# Gif
+![ListViewStyle](example_gif.gif)
+
 # Features
 1. Support ListView and GridView style.
 2. Support Section click and long click
