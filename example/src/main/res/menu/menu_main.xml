@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.vk.myapplication.MainActivity">
+
+    <item
+        android:id="@+id/action_vertical_listview"
+        android:orderInCategory="100"
+        android:title="@string/vertical_listview"
+        app:showAsAction="never"/>
+
+    <!--<item-->
+        <!--android:id="@+id/action_horizontal_listview"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/horizontal_listview"-->
+        <!--app:showAsAction="never"/>-->
+
+    <item
+        android:id="@+id/action_vertical_gridview"
+        android:orderInCategory="100"
+        android:title="@string/vertical_gridview"
+        app:showAsAction="never"/>
+
+    <!--<item-->
+        <!--android:id="@+id/action_horizontal_gridview"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/horizontal_gridview"-->
+        <!--app:showAsAction="never"/>-->
+</menu>

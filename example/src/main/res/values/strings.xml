@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PinnedSectionRecyclerView</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    
+    <string name="vertical_listview">Vertical ListView</string>
+    <string name="horizontal_listview">Horizontal ListView</string>
+    <string name="vertical_gridview">Vertical GridView</string>
+    <string name="horizontal_gridview">Horizontal GridView</string>
+</resources>
