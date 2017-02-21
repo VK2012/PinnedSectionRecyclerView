@@ -12,6 +12,11 @@ Simple RecyclerView with pinned sections for Android.
 1. Support ListView and GridView style.
 2. Support Section click and long click
 
+# Contact
+QQ:531372655
+
+Email:531372655@qq.com
+
 License
 -------
 
