@@ -1,0 +1,7 @@
+/.gradle
+example/example.iml
+library/library.iml
+.idea
+build
+example/build
+library/build
