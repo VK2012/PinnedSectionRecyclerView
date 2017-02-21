@@ -2,7 +2,7 @@
 Simple RecyclerView with pinned sections for Android.
 
 # ScreenShot
-![ListViewStyle](example_listview.png)&nbsp;
+![ListViewStyle](example_listview.png)
 ![ListViewStyle](example_gridview.png)&nbsp;
 
 # Gif
