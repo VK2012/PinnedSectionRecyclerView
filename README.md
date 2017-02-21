@@ -6,7 +6,7 @@ Simple RecyclerView with pinned sections for Android.
 ![ListViewStyle](example_gridview.png)&nbsp;
 
 # Gif
-![ListViewStyle](example_gif.gif)
+![ListViewStyle](example.gif)
 
 # Features
 1. Support ListView and GridView style.
